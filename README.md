@@ -1,7 +1,7 @@
 # RECAP
 
-The official repository for the ACL 2023 paper "RECAP: Retrieval-Enhanced Context-Aware Prefix Encoder for Personalized Dialogue Response Generation".
-
+This is the project that generates context aware text using cutting-edge AI technology.
+Generate personalized messages for your favorites without worrying about detection
 # Installation
 
 Commends for enviroment setup with conda.
